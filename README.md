@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SHURUQ999
-- 👀 I’m interested in ...
+- 👀 I’m interested in python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-a=5
-a+a
+
+
 
 <!---
 SHURUQ999/SHURUQ999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
